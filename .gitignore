@@ -1,6 +1,5 @@
 .idea
 target/
 test-output/
-*.apk
 .DS_Store
 *.iml
